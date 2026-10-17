@@ -1,3 +1,4 @@
+
 [submodule "plugins/steam-browser-history"]
 	path = plugins/steam-browser-history
 	url = https://github.com/ricewind012/steam-browser-history
@@ -73,6 +74,12 @@
 [submodule "plugins/gratitude"]
 	path = plugins/gratitude
 	url = https://github.com/BlythT/Gratitude-Millennium-Plugin
+[submodule "plugins/protondb-status"]
+	path = plugins/protondb-status
+	url = https://github.com/nyakuoff/protondb-badge
+[submodule "plugins/playercount-badge"]
+	path = plugins/playercount-badge
+	url = https://github.com/swindlesmccoop/playercount-badge
 [submodule "plugins/cs2-profile-stats"]
 	path = plugins/cs2-profile-stats
 	url = https://github.com/Shightrox/millennium-cs2-profile-stats.git
@@ -91,7 +98,15 @@
 [submodule "plugins/Easy-Restart-Reload-for-Steam"]
 	path = plugins/Easy-Restart-Reload-for-Steam
 	url = https://github.com/SaiyajinK/Easy-Restart-Reload-for-Steam
-
 [submodule "plugins/steam-autoplay-mute"]
 	path = plugins/steam-autoplay-mute
 	url = https://github.com/SnowFallinSummer/Steam-Autoplay-Mute.git
+[submodule "plugins/sortium"]
+	path = plugins/sortium
+	url = https://github.com/SalvadorCorreia/Sortium
+[submodule "plugins/protondb-library-badges"]
+	path = plugins/protondb-library-badges
+	url = https://github.com/Yohlo/protondb-library-badges
+[submodule "plugins/recent-chats"]
+	path = plugins/recent-chats
+	url = https://github.com/Alex979/Steam-Recent-Chats-plugin
